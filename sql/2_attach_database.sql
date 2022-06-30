@@ -1,0 +1,1 @@
+ATTACH DATABASE 'accounting' AS 'accountingDB';
